@@ -9,3 +9,4 @@ ZCZC W00 100 L02 W00 Zoom meeting
 ZCZC W00 20 L04 Update GitHub page
 ZCZC W00 45 L15 Assignment #05
 ZCZC W00 14 L32 YouTube: more on Linux command
+ZCZC W00 45 L32 YouTube: The Complete Linux Course: Beginner to Power User!
