@@ -13,3 +13,4 @@ ZCZC W00 45 L32 YouTube: The Complete Linux Course: Beginner to Power User!
 ZCZC W01 75 L02 W00 Zoom meeting
 ZCZC W01 15 L11 Assignment #01
 ZCZC W01 15 L12 Assignment #02
+ZCZC W01 75 L32 YouTube: Beginner's Guide to the Bash Terminal
