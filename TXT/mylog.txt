@@ -16,3 +16,4 @@ ZCZC W01 15 L12 Assignment #02
 ZCZC W01 75 L32 YouTube: Beginner's Guide to the Bash Terminal
 ZCZC W01 15 L32 YouTube: Using `sed` and Regular Expressions (Unix/Linux command line)
 ZCZC W01 20 L32 YouTube: Learning Awk Is Essential For Linux Users
+ZCZC W01 45 L13 Assignment #03
