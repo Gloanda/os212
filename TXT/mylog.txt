@@ -19,3 +19,7 @@ ZCZC W01 20 L32 YouTube: Learning Awk Is Essential For Linux Users
 ZCZC W01 45 L13 Assignment #03
 ZCZC W01 30 L14 Assignment #04
 ZCZC W01 20 L15 Assignment #05
+ZCZC W01 30 L16 Assignment #06
+ZCZC W01 10 L17 Assignment #07
+ZCZC W01 60 L18 Assignment #08
+ZCZC W01 75 L19 Assignment #09
