@@ -2,7 +2,7 @@ version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
   This is a
-  GitHub Page Template
+  GitHub Page
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -11,24 +11,16 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
-- navbar:    "TarBall"
-  link:      "/template.tar.bz2"
+- navbar:    "Log"
+  link:      "https://gloanda.github.io/os212/TXT/mylog.txt"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+  link:      "https://github.com/Gloanda/os212/"
 - navbar:    "Listing"
   link:      "/000.html"
-- navbar:    "About"
-  link:      "/ABOUT/"
-- navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+title:       "GitHub Page"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Loanda Gunawan"
+address:     "Tangerang"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -43,8 +35,8 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
+urlweb:           "https://gloanda.github.io/os212/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/Gloanda/os212/"
 
 
