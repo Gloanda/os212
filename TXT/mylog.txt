@@ -38,3 +38,8 @@ ZCZC W02 10 L27 Importing ospubkey.txt Key
 ZCZC W02 15 L04 Update links
 ZCZC W02 30 L09 Review peer links
 ZCZC W02 20 L25 Script a bit
+ZCZC W03 90 L02 W03 Zoom meeting
+ZCZC W03 75 L11 Assignment #01
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 10 L14 Assignment #04
