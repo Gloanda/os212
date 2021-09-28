@@ -12,3 +12,6 @@ Pretty Good Privacy (PGP) is an encryption system used for both sending encrypte
 
 3. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 File allocation methods define how the files are stored in the disk blocks. This website can give you simple overview of file allocation methods.
+
+4. [Tarball](https://osp4diss.vlsm.org/osp-001.html)<br>
+A tarball or tarfile is name of group or archive of files that are bundled together using the tar command. This website can help you to make and encrypt tarball.
