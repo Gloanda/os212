@@ -15,3 +15,6 @@ File allocation methods define how the files are stored in the disk blocks. This
 
 4. [Tarball](https://osp4diss.vlsm.org/osp-001.html)<br>
 A tarball or tarfile is name of group or archive of files that are bundled together using the tar command. This website can help you to make and encrypt tarball.
+
+5. [Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
+Virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory. This website can help you to understand how virtual memory works.

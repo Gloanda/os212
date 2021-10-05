@@ -64,3 +64,17 @@ ZCZC W04 20 L17 Assignment #07
 ZCZC W04 10 L18 Assignment #08
 ZCZC W04 10 L19 Assignment #09
 ZCZC W04 90 L02 W04 Zoom meeting
+ZCZC W05 90 L02 W05 Zoom meeting
+ZCZC W05 30 L22 W05 Quiz
+ZCZC W05 25 L06 GSGS C Pointer
+ZCZC W05 80 L11 Assignment #01
+ZCZC W05 35 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 75 L14 Assignment #04
+ZCZC W05 25 L06 GSGS Virtual Memory
+ZCZC W05 15 L15 Assignment #05
+ZCZC W05 30 L17 Assignment #07
+ZCZC W05 10 L18 Assignment #08
+ZCZC W05 10 L19 Assignment #09
+ZCZC W05 90 L02 W05 Zoom meeting
+ZCZC W05 60 L05 Study for quiz
