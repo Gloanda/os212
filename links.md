@@ -18,3 +18,6 @@ A tarball or tarfile is name of group or archive of files that are bundled toget
 
 5. [Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
 Virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory. This website can help you to understand how virtual memory works.
+
+6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). This website can help you to understand how fork() works.
