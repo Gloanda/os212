@@ -21,3 +21,6 @@ Virtual memory is a memory management technique where secondary memory can be us
 
 6. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). This website can help you to understand how fork() works.
+
+7. [Mutex](https://nrecursions.blogspot.com/2014/08/mutex-tutorial-and-example.html)<br>
+Mutex (mutual exclusion) is a property of concurrency control, which is instituted for the purpose of preventing race conditions. It is the requirement that one thread of execution never enters a critical section while a concurrent thread of execution is already accessing critical section. This website can help you to understand mutex better by giving an example of mutex usage.
