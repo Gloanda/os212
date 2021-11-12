@@ -24,3 +24,6 @@ Fork system call is used for creating a new process, which is called child proce
 
 7. [Mutex](https://nrecursions.blogspot.com/2014/08/mutex-tutorial-and-example.html)<br>
 Mutex (mutual exclusion) is a property of concurrency control, which is instituted for the purpose of preventing race conditions. It is the requirement that one thread of execution never enters a critical section while a concurrent thread of execution is already accessing critical section. This website can help you to understand mutex better by giving an example of mutex usage.
+
+8. [Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+A Process Scheduler schedules different processes to be assigned to the CPU based on particular scheduling algorithms. This website can help you to understand how various scheduling algorithms work.
